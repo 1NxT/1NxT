@@ -1,6 +1,6 @@
 ## Olá 👋 Meu nome é Guilherme Rodrigues ou conhecido como 1NxT pela internet.
 
-<div> 
+<div align="center"> 
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=1NxT&count_private=true&show_icons=true&theme=radical"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1NxT&layout=compact&theme=radical"/>
 </div>
