@@ -12,7 +12,7 @@
   <img align="center" alt="1NxT-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="1NxT-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="1NxT-Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg">
-  <img align="right" alt="Rafa-yoda" src="https://cdn.discordapp.com/attachments/773239503519350845/876840033498333184/PAIEquemcria..gif">
+  
   
 </div>
 
